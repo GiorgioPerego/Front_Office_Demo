@@ -3,7 +3,7 @@
 
 Multi-user economic management system for a multi-year fantasy football league: segregated budgets, long-term contracts with predefined cost escalation, installment plans with exposure caps, a propose–accept–ratify trade workflow with automatic limit checks, and Excel audit exports. Built with Python and Streamlit.
 
-> **Live demo:** [ADD YOUR .streamlit.app URL] — to try the participant view, log in as team *Real Tavolino* with PIN `1111`. The demo runs on sample data and can be freely explored.
+> **Live demo:**(https://front-office-demo.streamlit.app) — to try the participant view, log in as team *Real Tavolino* with PIN `1111`. The demo runs on sample data and can be freely explored.
 
 ---
 
